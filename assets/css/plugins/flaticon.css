@@ -39,3 +39,6 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 .flaticon-notification:before {
     content: "\f107";
 }
+.flaticon-salad:before {
+    content: "\f105";
+}
